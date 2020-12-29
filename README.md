@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm David!
 
-## 💻 Digital Consultant & Data Analyst!
+## 💻 Digital Consultant & aspiring Data Analyst!
 
 - 🔭 I’m currently working on improving my programming and Data Analysis skills.
 - 🌱 I'm currently learning about Cyber Security.
