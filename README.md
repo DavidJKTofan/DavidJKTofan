@@ -3,7 +3,7 @@
 ## 💻 Digital Consultant & soon-to-be Data Analyst!
 
 - 🔭 I’m currently working on improving my programming and Data Analysis skills.
-- 👯 I’m looking to collaborate on any data-related project. 🤓
+- 👯 I’m looking to collaborate on any data-related project. 🤓 Also always happy to receive feedback on my projects!
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidtofan/).
 
@@ -24,7 +24,7 @@
 
 
 ### 🛠️ Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
