@@ -41,5 +41,5 @@
   <img alt="DeepNote" height="20" src="https://deepnote.com/static/landing/logo.svg">
   <img alt="KNIME" height="20" src="https://hub.knime.com/og-image-256.png">
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
-  <img alt="Cloudflare" height="20" src="https://symbols.getvecta.com/stencil_76/107_cloudflare-icon.a7213446d3.svg">
+  <img alt="Cloudflare" height="16" src="https://symbols.getvecta.com/stencil_76/107_cloudflare-icon.a7213446d3.svg">
 </div>
