@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm David!
 
-## 💻 Digital Consultant & aspiring Data Analyst!
+## 💻 Aspiring Data Analyst!
 
-- 🔭 I’m currently working on improving my programming and Data Analysis skills.
-- 🌱 I'm currently learning about Cyber Security.
+- 🤓 I’m currently working at [Cloudflare](https://www.cloudflare.com/).
+- 🌱 I'm currently learning about Cyber Security and improving my programming and Data Analysis skills.
 - 👯 I’m looking to collaborate on any data-related project. 🤓 Also always happy to receive feedback on my projects!
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidtofan/).
