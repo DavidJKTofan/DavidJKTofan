@@ -1,6 +1,6 @@
-### Hi there 👋 I'm David!
+## Hi there 👋 I'm David!
 
-## 💻 Aspiring Data Analyst!
+### 💻 Aspiring Data Analyst!
 
 - 🤓 I’m currently working at [Cloudflare](https://www.cloudflare.com/).
 - 🌱 I'm currently learning about Cyber Security and improving my programming and Data Analysis skills.
@@ -8,11 +8,13 @@
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/davidtofan/).
 
+* * * 
 
-### Personal Website
+### 🌐 Personal Website
 
 - [davidjktofan.com](https://davidjktofan.com/)
 
+* * * 
 
 ### 🤖 Languages:
 <div>
@@ -25,6 +27,7 @@
   <img alt="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </div>
 
+* * * 
 
 ### 🛠️ Tools:
 <div>
@@ -43,3 +46,9 @@
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
   <img alt="Cloudflare" height="16" src="https://symbols.getvecta.com/stencil_76/107_cloudflare-icon.a7213446d3.svg">
 </div>
+
+* * * 
+
+### 📙 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
