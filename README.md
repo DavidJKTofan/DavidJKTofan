@@ -57,3 +57,9 @@
 - [Introducing Cloudflare](https://davidtofan.com/post/cloudflare-security/)
 - [Protect yourself from Phishing](https://davidtofan.com/post/protect-against-phishing/)
 <!-- BLOG-POST-LIST:END -->
+
+* * * 
+
+### 🤝 Follow Me
+
+![Twitter Follow](https://img.shields.io/twitter/follow/davidjktofan?color=%231DA1F2&logo=Twitter&style=for-the-badge)
