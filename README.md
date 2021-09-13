@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm David!
 
-### 💻 Aspiring Data Analyst!
+### 💻 Aspiring Solutions Engineer @ Cloudflare!
 
 - 🤓 I’m currently working at [Cloudflare](https://www.cloudflare.com/).
 - 🌱 I'm currently learning about Cyber Security and improving my programming and Data Analysis skills.
