@@ -51,7 +51,7 @@
 
 ### 🏁 CTFs
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe">
+<a rel="external" href="https://tryhackme.com/p/davidjktofan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe"></a>
 
 * * * 
 
