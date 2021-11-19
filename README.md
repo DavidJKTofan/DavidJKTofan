@@ -16,7 +16,7 @@
 
 * * * 
 
-### 🤖 Languages:
+### 🤖 Languages
 <div>
   <img alt="HTML" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   <img alt="CSS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -29,7 +29,7 @@
 
 * * * 
 
-### 🛠️ Tools:
+### 🛠️ Tools
 <div>
   <img alt="MacOS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png">
   <img alt="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
@@ -46,6 +46,12 @@
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
   <img alt="Cloudflare" height="22" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">
 </div>
+
+* * * 
+
+### 🏁 CTFs
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe">
 
 * * * 
 
