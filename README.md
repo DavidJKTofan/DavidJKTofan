@@ -59,9 +59,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Data Localization](https://davidtofan.com/post/cloudflare-data-localization/)
 - [Intro to Cloudflare Workers](https://davidtofan.com/post/cloudflare-workers/)
 - [Cloudflare for Teams](https://davidtofan.com/post/cloudflare-for-teams/)
 - [Migrating to Cloudflare](https://davidtofan.com/post/migrating-to-cloudflare/)
 - [Finding a Job in 2021](https://davidtofan.com/post/job-opportunities/)
-- [Introducing Cloudflare](https://davidtofan.com/post/cloudflare-security/)
 <!-- BLOG-POST-LIST:END -->
