@@ -53,6 +53,8 @@
 
 <a rel="external" href="https://tryhackme.com/p/davidjktofan" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/davidjktofan.png" alt="TryHackMe"></a>
 
+<script src="https://tryhackme.com/badge/738442"></script>
+
 <a rel="external" href="https://www.codewars.com/users/DavidJKTofan/" target="_blank"><img src="https://www.codewars.com/users/DavidJKTofan/badges/large" alt="CodeWars"></a>
 
 * * * 
