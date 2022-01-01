@@ -59,9 +59,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare IPFS Gateway](https://davidtofan.com/post/cloudflare-ipfs-gateway/)
 - [Cloudflare Data Localization](https://davidtofan.com/post/cloudflare-data-localization/)
 - [Intro to Cloudflare Workers](https://davidtofan.com/post/cloudflare-workers/)
 - [Cloudflare for Teams](https://davidtofan.com/post/cloudflare-for-teams/)
 - [Migrating to Cloudflare](https://davidtofan.com/post/migrating-to-cloudflare/)
-- [Finding a Job in 2021](https://davidtofan.com/post/job-opportunities/)
 <!-- BLOG-POST-LIST:END -->
