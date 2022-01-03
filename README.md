@@ -10,9 +10,10 @@
 
 * * * 
 
-### 🌐 Personal Website
+### 🌐 Personal Websites
 
 - [davidjktofan.com](https://davidjktofan.com/)
+- [davidtofan.com](https://davidtofan.com/)
 
 * * * 
 
