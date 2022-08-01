@@ -60,9 +60,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Cloudflare](https://davidtofan.com/articles/comparing-cloudflare/)
 - [Cloudflare Cyber Readiness Guide](https://davidtofan.com/articles/cloudflare-cyber-readiness-guide/)
 - [Cloudflare Logpush](https://davidtofan.com/articles/cloudflare-logpush/)
 - [Cloudflare Radar](https://davidtofan.com/articles/cloudflare-radar/)
 - [Cloudflare IPFS Gateway](https://davidtofan.com/articles/cloudflare-ipfs-gateway/)
-- [Cloudflare Data Localization](https://davidtofan.com/articles/cloudflare-data-localization/)
 <!-- BLOG-POST-LIST:END -->
