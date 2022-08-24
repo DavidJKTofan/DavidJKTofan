@@ -15,6 +15,8 @@
 - [davidjktofan.com](https://davidjktofan.com/)
 - [davidtofan.com](https://davidtofan.com/)
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidjktofan/my-stack)
+
 * * * 
 
 ### 🤖 Languages
