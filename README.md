@@ -45,7 +45,7 @@
   <img alt="Docker" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   <img alt="Jupyter Notebook" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
   <img alt="DeepNote" height="20" src="https://deepnote.com/static/landing/logo.svg">
-  <img alt="Netlify" height="20" src="https://www.netlify.com/img/press/logos/logomark.svg">
+  <img alt="Netlify" height="20" src="https://www.netlify.com/v3/img/components/full-logo-light.svg">
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
   <img alt="Cloudflare" height="22" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">
 </div>
