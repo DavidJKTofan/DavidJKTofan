@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm David!
 
-### 💻 Aspiring Solutions Engineer @ Cloudflare!
+### 💻 Solutions Engineer @ Cloudflare!
 
 - 🤓 I’m currently working at [Cloudflare](https://www.cloudflare.com/).
 - 🌱 Currently learning about Cyber Security and improving my programming and Data Analysis skills.
@@ -14,8 +14,6 @@
 
 - [davidjktofan.com](https://davidjktofan.com/)
 - [davidtofan.com](https://davidtofan.com/)
-
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidjktofan/my-stack)
 
 * * * 
 
@@ -49,6 +47,8 @@
   <img alt="Raspberry Pi" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
   <img alt="Cloudflare" height="22" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg">
 </div>
+
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/davidjktofan/my-stack)
 
 * * * 
 
