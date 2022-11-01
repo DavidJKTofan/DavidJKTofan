@@ -62,9 +62,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity in Hospitality](https://davidtofan.com/articles/cybersecurity-hospitality/)
 - [Cloudflare Zaraz](https://davidtofan.com/articles/cloudflare-zaraz/)
 - [Comparing Cloudflare](https://davidtofan.com/articles/comparing-cloudflare/)
 - [Cloudflare Cyber Readiness Guide](https://davidtofan.com/articles/cloudflare-cyber-readiness-guide/)
 - [Cloudflare Logpush](https://davidtofan.com/articles/cloudflare-logpush/)
-- [Cloudflare Radar](https://davidtofan.com/articles/cloudflare-radar/)
 <!-- BLOG-POST-LIST:END -->
