@@ -12,7 +12,7 @@
 
 ### 🌐 Personal Websites
 
-- [davidjktofan.com](https://davidjktofan.com/welcome?utm_source=github)
+- [davidjktofan.com](https://davidjktofan.com/?utm_source=github)
 - [davidtofan.com](https://davidtofan.com/welcome?utm_source=github)
 
 * * * 
