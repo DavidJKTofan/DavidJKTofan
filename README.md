@@ -62,9 +62,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Traveler&#39;s Guide](https://davidtofan.com/articles/global-ultimate-travelers-guide/)
 - [Cloudflare&#39;s Impact, Commitments, Privacy-preserving Products, Research, and more](https://davidtofan.com/articles/cloudflare-impact-commitment-privacy-research/)
 - [Where the Cloud lives – an Interactive Map of Data Center Locations of Top Cloud Providers](https://davidtofan.com/articles/interactive-map-cloud-data-center-locations/)
 - [Cybersecurity in Hospitality](https://davidtofan.com/articles/cybersecurity-hospitality/)
 - [Cloudflare Zaraz](https://davidtofan.com/articles/cloudflare-zaraz/)
-- [Comparing Cloudflare](https://davidtofan.com/articles/comparing-cloudflare/)
 <!-- BLOG-POST-LIST:END -->
