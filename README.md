@@ -61,9 +61,9 @@
 
 ### 📙 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Protecting OSI layers](https://davidtofan.com/articles/protecting-osi-layers/)
+- [Cybersecurity and Artificial Intelligence &lpar;AI&rpar;](https://davidtofan.com/articles/ai-cybersecurity/)
 - [The Ultimate Traveler&#39;s Guide](https://davidtofan.com/articles/global-ultimate-travelers-guide/)
 - [Cloudflare&#39;s Impact, Commitments, Privacy-preserving Products, Research, and more](https://davidtofan.com/articles/cloudflare-impact-commitment-privacy-research/)
 - [Where the Cloud lives – an Interactive Map of Data Center Locations of Top Cloud Providers](https://davidtofan.com/articles/interactive-map-cloud-data-center-locations/)
-- [Cybersecurity in Hospitality](https://davidtofan.com/articles/cybersecurity-hospitality/)
-- [Cloudflare Zaraz](https://davidtofan.com/articles/cloudflare-zaraz/)
 <!-- BLOG-POST-LIST:END -->
